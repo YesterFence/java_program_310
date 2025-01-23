@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Ryan Lee 
 
-Sprint #:
+Sprint #: 1
 
 ## Instructions
 
@@ -26,7 +26,12 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
+|   1/16   |  1:00 pm |   TP   |    Gathered Team and assigned roles        |    60 min   |
+|   1/16   |  4:00 pm |   IM   |    Java Research w/ Videos                 |    90 min   |
+|   1/18   | 11:00 pm |   IM   |    Installing programs and testing code    |   100 min   |
+|   1/20   |  3:30 pm |   IM   |    Building base code (blueprint)          |    80 min   |
+|   1/21   |  1:00 pm |   TP   |    Decided on program and goals            |    20 min   |
+|   1/22   |  4:00 pm |   IM   |    Making blueprint code run               |   240 min   |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |

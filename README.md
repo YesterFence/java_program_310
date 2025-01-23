@@ -35,7 +35,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Website Title](Link)
-*
+* [Java Full Course Video](https://www.youtube.com/watch?v=eIrMbAQSU34)
 *
 
 ## Future Work
