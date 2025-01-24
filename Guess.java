@@ -1,4 +1,6 @@
+// Allows to read computers local time
 import java.time.LocalTime;
+// Can handle user input
 import java.util.Scanner;
 
 
@@ -13,7 +15,6 @@ public class Guess
 
         while (true)
         {
-            difficulty = start(scanner);
             // It's important to check for a valid using '||' and not using commas
             if (difficulty == 1 || difficulty == 2 || difficulty == 3)
             {
@@ -30,8 +31,11 @@ public class Guess
         LocalTime currentTime = LocalTime.now();
 
         int hour = currentTime.getHour();
+        // System.out.println(hour);
         int minute = currentTime.getMinute();
+        // System.out.println(minute);
         int second = currentTime.getSecond();
+        // System.out.println(second);
 
         // We have a number for the user to guess
         int theNumber = checkDifficulty(difficulty, hour, minute, second);
@@ -39,9 +43,14 @@ public class Guess
         //This is just to test a benchmark. You need to delete this and make the guessing game. 
         System.out.println(theNumber);
 
+        // Scanner answer = new Scanner(System.in); work in progress
+
+        // int guess = highLow(answer, theNumber); work in progress
+
         scanner.close();
     }
 
+    // Starts by welcoming the user for an input
     public static int start(Scanner scanner)
     {
         System.out.println("Welcome to the Guessing Game! Please choose a difficulty.");
@@ -72,7 +81,7 @@ public class Guess
         }
     }
 
-    //Easy way to make a random number that will be in the double digits
+    //Easy way to make a random number that will be relatively small
     public static int easyNumber(int hour, int minute, int second)
     {
         return (hour + minute + second) / 3;
@@ -89,6 +98,25 @@ public class Guess
     {
         return (hour + minute + second) * 2;
     }
+
+    // public static int highLow(int answer, int theNumber) 
+    // {
+    //     if (answer > theNumber)
+    //     {
+    //         System.out.println("Your guess is to big. It's a smaller number.");
+    //         return highLow(theNumber);
+    //     }
+    //     else if (answer < theNumber)
+    //     {
+    //         System.out.println("Your guess is too small. It's a larger number");
+    //         return highLow(theNumber);
+    //     }
+    //     else 
+    //     {
+    //         System.out.println("Correct! It was " + theNumber);
+    //         return -1;
+    //     }
+    // }
 }
 
 // public class Main 
