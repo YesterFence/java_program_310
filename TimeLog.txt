@@ -28,14 +28,14 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 |   1/16   |  1:00 pm |   TP   |    Gathered Team and assigned roles        |    60 min   |
 |   1/16   |  4:00 pm |   IM   |    Java Research w/ Videos                 |    90 min   |
-|   1/18   | 11:00 pm |   IM   |    Installing programs and testing code    |   100 min   |
+|   1/18   | 11:00 pm |   IM   |    Installing programs and testing code    |    20 min   |
 |   1/20   |  3:30 pm |   IM   |    Building base code (blueprint)          |    80 min   |
 |   1/21   |  1:00 pm |   TP   |    Decided on program and goals            |    20 min   |
 |   1/21   |  3:00 pm |   TP   |    Looking for socket supports             |    40 min   |
 |   1/22   |  4:00 pm |   IM   |    Making blueprint code run               |   240 min   |
 |   1/23   |  1:00 pm |   TP   |    Making assignments into GitHub          |    40 min   |
-|   1/23   | 11:00 am |   IM   |    Finishing touches to present to class   |    90 min   |
-|          |          |        |                                            |             |
+|   1/23   | 11:00 am |   IM   |    Finishing touches to present to class   |    20 min   |
+|   1/24   | 10:00 am |   IM   |    Trying to implement a save file         |   210 min   |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
@@ -45,7 +45,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |   11 Hours : 00 Minutes  |
+|TP - Team Project              |    2 Hours : 40 Minutes  |
+|MTG - Class Meetings           |    4 Hours : 00 Minutes  |
+|**TOTAL**                      |   17 Hours : 40 Minutes  |
