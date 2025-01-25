@@ -9,7 +9,7 @@
 **Project Goals**: To have user interaction, be able to generate a number, and tell the user if the number is higher or lower. 
 
 ---
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/DEXenXiUbss)
 
 [Java Code](Guess.java)
 
